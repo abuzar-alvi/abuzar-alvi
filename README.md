@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-	You can call me RaDin
+	You can also call me RaDin
 </p>
 
 <p align="center">
