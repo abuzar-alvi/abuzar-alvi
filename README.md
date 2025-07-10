@@ -35,9 +35,10 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-	<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="30" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-	<a href="#" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/15713/15713399.png" alt="Tiktok" height="40" width="40" /></a>
-	<a href="https://www.youtube.com/@RaDinsTerritory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="40" width="50" /></a>
+	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="45" width="45" /></a>
+	<a href="https://www.youtube.com/@RaDinsTerritory" target="_blank"><img align="center" src="https://i.postimg.cc/X7DpGCxn/youtube.png" alt="Youtube" height="45" width="45" /></a>
+	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="45" width="45" /></a>
+	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="45" width="45" /></a>
+	<a href="https://www.tiktok.com/@radinsterritory" target="_blank"><img align="center" src="https://i.postimg.cc/6pX5GfnJ/tiktok.png" alt="Tiktok" height="45" width="45" /></a>
+	<a href="https://api.whatsapp.com/send/?phone=%2B9203133141328&text=Hi+RaDins%2C%0A++%0AAre+you+available+for+a+quick+chat%3F&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="45" width="45" /></a>
 </p>
