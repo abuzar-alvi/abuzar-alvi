@@ -35,7 +35,7 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="45" width="45" /></a>
+	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="50em" width="50em" /></a>
 	<a href="https://www.youtube.com/@RaDinsTerritory" target="_blank"><img align="center" src="https://i.postimg.cc/X7DpGCxn/youtube.png" alt="Youtube" height="45" width="45" /></a>
 	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="45" width="45" /></a>
 	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="45" width="45" /></a>
