@@ -35,10 +35,10 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="auto" width="5%" /></a>
+	<a href="https://www.linkedin.com/in/abuzaralvi" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="auto" width="5%" /></a>
 	<a href="https://www.youtube.com/@RaDinsTerritory" target="_blank"><img align="center" src="https://i.postimg.cc/X7DpGCxn/youtube.png" alt="Youtube" height="auto" width="5%" /></a>
-	<a href="#" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="auto" width="5%" /></a>
+	<a href="https://x.com/abuzar_alvi_18" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="auto" width="5%" /></a>
 	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="auto" width="5%" /></a>
 	<a href="https://www.tiktok.com/@radinsterritory" target="_blank"><img align="center" src="https://i.postimg.cc/6pX5GfnJ/tiktok.png" alt="Tiktok" height="auto" width="5%" /></a>
-	<a href="https://api.whatsapp.com/send/?phone=%2B9203133141328&text=Hi+RaDins%2C%0A++%0AAre+you+available+for+a+quick+chat%3F&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="auto" width="5%" /></a>
+	<a href="https://wa.me/+9203133141328" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="auto" width="5%" /></a>
 </p>
