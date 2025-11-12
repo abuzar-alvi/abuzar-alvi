@@ -1,10 +1,8 @@
-<h1 align="center">
+<h1 align="center" style="font-size: 2.5em;">
 	Hi 👋, I'm Abuzar Alvi
-  	<sup>
     <a href="https://www.abuzaralvi.com" target="_blank">
-      <img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
-    </a>
-  </sup>
+    	<img src="https://www.abuzaralvi.com/favicon.ico" width="36" style="vertical-align:middle;" />
+  	</a>
 </h1>
 
 <p align="center">
