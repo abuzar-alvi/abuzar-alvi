@@ -1,8 +1,23 @@
-<h1 align="center" style="font-size: 6.5em;">
+<p align="center">
+  <span style="font-size:2.5em; font-weight:700;">Hi 👋, I'm Abuzar Alvi</span>
+</p>
+
+<p align="center" style="font-size:1.2em; color: #666;">
+  Full-Stack Developer | React, Next.js, Node.js | Passionate about building clean and modern web experiences
+</p>
+
+<p align="center">
+  <a href="https://www.abuzaralvi.com" target="_blank">
+    <sup>
+      <img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
+    </sup>
+    &nbsp;
+    <b>Visit My Portfolio</b>
+  </a>
+</p>
+
+<h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
-    <a href="https://www.abuzaralvi.com" target="_blank">
-    	<sup><img src="https://www.abuzaralvi.com/favicon.ico" width="36" /></sup>
-  	</a>
 </h1>
 
 <p align="center">
