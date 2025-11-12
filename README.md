@@ -14,6 +14,8 @@
 	I'm a full-stack developer passionate about building secure, fast, and user-friendly web apps using tools like MERN, NextJs and others. I enjoy solving problems and bringing ideas to life through clean, efficient code.
 </p>
 
+---
+
 <img height="1px" width="100%" src="https://d3qttbgs69tf9a.cloudfront.net/p5plej%2Fpreview%2F66410413%2Fmain_large.png?response-content-disposition=inline%3Bfilename%3D%22main_large.png%22%3B&response-content-type=image%2Fpng&Expires=1745245637&Signature=Ao9lSTecqZsBuiKoaeobh63UdTP1E-ZUi4ZWSIYhfcU2Qp0L6B2niy2gzBw6ZHgrUImdyvP5iHPbC0Z9qHToRch8GHAaJt4MEvLFdhv5o~JR1koH1l6Hu~oXWj~Y3q9bHPfOlD-X1k68kwIsjwgJanLU9UpOtG4p1s-gjW6VJd9c777TqcJsl9k90FaPeFGSjfC5lw-nT3qeOY3bTwHxM4IQjrLOMFohCra8qQCkU~LtS-t4u1CqXrvNVN115u4yONzeUM1GKGt-em~GdfImU3YGC2GiHVot8byGa0YUq-EH5CXExk14zWwnVXuii6ULvocQN1daAETEVwo8Kxn5CA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ">
 
 <h3 align="left">Github Statistics</h3>
