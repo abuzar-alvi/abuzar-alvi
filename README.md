@@ -1,5 +1,5 @@
 <h1 align="center">
-	Hi 👋, I'm Abuzar Alvi
+	<span>Hi 👋, I'm Abuzar Alvi</span>
   	<a href="https://www.abuzaralvi.com" target="_blank">
     	<img src="https://www.abuzaralvi.com/favicon.ico" height="36" valign="middle" />
   	</a>
