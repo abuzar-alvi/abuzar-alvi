@@ -1,11 +1,18 @@
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
 	<div align="center">
-  		<a href="https://www.abuzaralvi.com" target="_blank" style="text-decoration:none;">
-      		<img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
-    		<sub><b>My Portfolio</b></sub>
-  		</a>
-	</div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://www.abuzaralvi.com/favicon.ico" width="32" style="vertical-align: middle;" />
+      </td>
+      <td>
+        &nbsp;<b>My Portfolio</b>
+      </td>
+    </tr>
+  </table>
+  <a href="https://www.abuzaralvi.com" target="_blank"></a>
+</div>
 </h1>
 
 <p align="center">
