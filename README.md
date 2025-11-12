@@ -1,7 +1,6 @@
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
-	🚀 [Visit My Portfolio](https://yourportfolio.com)
-
+	[<img src="https://www.abuzaralvi.com/favicon.ico" width="16" /> 🚀 Visit My Portfolio](https://www.abuzaralvi.com)
 </h1>
 
 <p align="center">
