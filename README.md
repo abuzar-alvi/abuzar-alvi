@@ -1,21 +1,3 @@
-<p align="center">
-  <span style="font-size:2.5em; font-weight:700;">Hi 👋, I'm Abuzar Alvi</span>
-</p>
-
-<p align="center" style="font-size:1.2em; color: #666;">
-  Full-Stack Developer | React, Next.js, Node.js | Passionate about building clean and modern web experiences
-</p>
-
-<p align="center">
-  <a href="https://www.abuzaralvi.com" target="_blank">
-    <sup>
-      <img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
-    </sup>
-    &nbsp;
-    <b>Visit My Portfolio</b>
-  </a>
-</p>
-
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
 </h1>
@@ -59,4 +41,5 @@
 	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="auto" width="5%" /></a>
 	<a href="https://www.tiktok.com/@radinsterritory" target="_blank"><img align="center" src="https://i.postimg.cc/6pX5GfnJ/tiktok.png" alt="Tiktok" height="auto" width="5%" /></a>
 	<a href="https://wa.me/+9203133141328" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="auto" width="5%" /></a>
+	<a href="https://www.abuzaralvi.com" target="_blank"><img align="center" src="https://www.abuzaralvi.com/favicon.ico" alt="Portfolio" height="auto" width="5%" /></a>
 </p>
