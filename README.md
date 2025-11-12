@@ -2,7 +2,7 @@
 	Hi 👋, I'm Abuzar Alvi
 	<div align="center">
   		<a href="https://www.abuzaralvi.com" target="_blank" style="text-decoration:none;">
-      		<img src="https://www.abuzaralvi.com/favicon.ico" width="36" valign="middle" />
+      		<img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
     		<sub><b>My Portfolio</b></sub>
   		</a>
 	</div>
