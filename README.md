@@ -1,11 +1,12 @@
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
-	<p align="center">
+	<div align="center">
   		<a href="https://www.abuzaralvi.com" target="_blank">
       		<img src="https://www.abuzaralvi.com/favicon.ico" width="36" valign="middle" />
+			&nbsp;
       		<b>My Portfolio</b>
   		</a>
-	</p>
+	</div>
 </h1>
 
 <p align="center">
