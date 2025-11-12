@@ -35,11 +35,11 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/abuzaralvi" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://www.youtube.com/@RaDinsTerritory" target="_blank"><img align="center" src="https://i.postimg.cc/X7DpGCxn/youtube.png" alt="Youtube" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://x.com/abuzar_alvi_18" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://www.tiktok.com/@radinsterritory" target="_blank"><img align="center" src="https://i.postimg.cc/6pX5GfnJ/tiktok.png" alt="Tiktok" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://wa.me/+9203133141328" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="auto" width="5%" /></a>&nbsp;
-	<a href="https://www.abuzaralvi.com" target="_blank"><img align="center" src="https://www.abuzaralvi.com/favicon.ico" alt="Portfolio" height="auto" width="5%" /></a>&nbsp;
+	<a href="https://www.linkedin.com/in/abuzaralvi" target="_blank"><img align="center" src="https://i.postimg.cc/QC3nqCbt/linkedin.png" alt="LinkedIn" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://www.youtube.com/@RaDinsTerritory" target="_blank"><img align="center" src="https://i.postimg.cc/X7DpGCxn/youtube.png" alt="Youtube" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://x.com/abuzar_alvi_18" target="_blank"><img align="center" src="https://i.postimg.cc/xCYKxzWW/x.png" alt="X" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://www.instagram.com/radins_territory" target="_blank"><img align="center" src="https://i.postimg.cc/zGxZXCkk/instagram.png" alt="Instagram" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://www.tiktok.com/@radinsterritory" target="_blank"><img align="center" src="https://i.postimg.cc/6pX5GfnJ/tiktok.png" alt="Tiktok" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://wa.me/+9203133141328" target="_blank"><img align="center" src="https://i.postimg.cc/GmVKQ93C/whatsapp.png" alt="Whatsapp" height="auto" width="5%" /></a>&nbsp;&nbsp;
+	<a href="https://www.abuzaralvi.com" target="_blank"><img align="center" src="https://www.abuzaralvi.com/favicon.ico" alt="Portfolio" height="auto" width="5%" /></a>
 </p>
