@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3.5em;">
+<h1 align="center" style="font-size: 6.5em;">
 	Hi 👋, I'm Abuzar Alvi
     <a href="https://www.abuzaralvi.com" target="_blank">
     	<img src="https://www.abuzaralvi.com/favicon.ico" width="36" style="vertical-align:middle;" />
