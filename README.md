@@ -1,7 +1,7 @@
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
   	<a href="https://www.abuzaralvi.com" target="_blank">
-    	<img src="https://www.abuzaralvi.com/favicon.ico" width="26" valign="middle" />
+    	<img src="https://www.abuzaralvi.com/favicon.ico" height="36" valign="middle" />
   	</a>
 </h1>
 
