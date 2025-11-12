@@ -3,7 +3,7 @@
 	<p align="center">
   		<a href="https://www.abuzaralvi.com" target="_blank" style="text-decoration:none;">
     		<span style="display:inline-flex; align-items:center; gap:8px;">
-      			<img src="https://www.abuzaralvi.com/favicon.ico" width="24" />
+      			<img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
       			<b>My Portfolio</b>
     		</span>
   		</a>
