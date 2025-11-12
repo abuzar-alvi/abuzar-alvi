@@ -1,9 +1,22 @@
 <h1 align="center">
 	Hi 👋, I'm Abuzar Alvi
   <a href="https://www.abuzaralvi.com" target="_blank">
-    <img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
+    <img src="https://www.abuzaralvi.com/favicon.ico" width="36" valign="middle" />
   </a>
 </h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>Hi 👋, I'm Abuzar Alvi</h1>
+    </td>
+    <td align="right">
+      <a href="https://www.abuzaralvi.com" target="_blank">
+        <img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <p align="center">
 	You can also call me RaDin
