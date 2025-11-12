@@ -2,16 +2,8 @@
 	Hi 👋, I'm Abuzar Alvi
 	<div align="center">
   		<a href="https://www.abuzaralvi.com" target="_blank" style="text-decoration:none;">
-      		<table>
-      			<tr>
-        			<td valign="middle">
-          				<img src="https://www.abuzaralvi.com/favicon.ico" width="36" />
-        			</td>
-        			<td valign="middle">
-          				<b>My Portfolio</b>
-        			</td>
-      			</tr>
-    		</table>
+      		<img src="https://www.abuzaralvi.com/favicon.ico" width="36" valign="middle" />
+    		<b>My Portfolio</b>
   		</a>
 	</div>
 </h1>
