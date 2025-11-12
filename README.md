@@ -4,7 +4,7 @@
     <img src="https://www.abuzaralvi.com/favicon.ico" width="36" valign="middle" />
   </a>
 </h1>
-<table width="100%">
+<table width="100%" style="border:0; border-collapse:collapse;">
   <tr>
     <td align="left">
       <h1>Hi 👋, I'm Abuzar Alvi</h1>
